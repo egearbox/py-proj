@@ -91,7 +91,7 @@
     </p>
     <p class="text" id="footnote_1"><small><sup>1</sup> Dateien: <samp>index.php</samp> und <samp>MAMP-PRO-Logo.png</samp></small></p>
     <hr />
-    <p class="text">page in: <?php echo $str_available_languages; ?></p>
+    <p class="text">thhhpage in: <?php echo $str_available_languages; ?></p>
 
 <?php elseif ($str_language == 'en'): ?>
 
