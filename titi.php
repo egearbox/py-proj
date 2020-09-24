@@ -1,3 +1,3 @@
 <?php
-echo "titi";
+echo "titi et toto";
 ?>
